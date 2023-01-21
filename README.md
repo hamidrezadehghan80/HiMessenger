@@ -1,2 +1,2 @@
 # HiMessenger
-HiMessenger is a messenger like twitter wich developed by React Js 
+HiMessenger is a messenger like twitter and developed by React Js 
