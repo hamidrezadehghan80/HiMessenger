@@ -1,0 +1,5 @@
+.tweet_by_tweeter{
+    flex: 1;
+    background-color: ghostwhite;
+    overflow: auto;
+}

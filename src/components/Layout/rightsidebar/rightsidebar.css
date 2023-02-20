@@ -1,0 +1,17 @@
+.img_brand {
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem;
+}
+
+.title_brand {
+    font-size: x-large;
+    color: #c979b7;
+    line-height: 3rem;
+}
+
+.hot_hashtags {
+    font-size: x-large;
+    color: black;
+    margin: 3rem 1rem 1rem;
+}

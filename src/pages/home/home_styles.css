@@ -1,0 +1,5 @@
+.mainbar{
+    flex: 1;
+    background-color: ghostwhite;
+    overflow: auto;
+}

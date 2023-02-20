@@ -1,0 +1,17 @@
+.best_tweeters_parent{
+    margin: 3rem 0 0;
+    background-color: ghostwhite;
+    border-radius: 1rem;
+    padding: .5rem;
+}
+
+.best_tweeters_title{
+    font-size: x-large;
+    margin: 0;
+    text-align: center;
+}
+
+.best_tweeters_divider{
+    width: 100%;
+    color: gainsboro;
+}
