@@ -1,0 +1,48 @@
+.new_tweet{
+    background-color: white;
+    padding: .7rem;
+    width: 100%;
+}
+
+.new_tweet_img{
+    display: flex;
+    flex: 1;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+
+.new_tweet_upload_image{
+    width: 7rem;
+    height: 7rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 1rem 0;
+}
+
+.new_tweet_input{
+    border: none;
+    outline: none;
+    margin-top: .5rem;
+    margin-right: .5rem;
+    width: 100%;
+}
+
+.new_tweet_send_btn{
+    background-color: #c979b7 !important;
+    color: white !important;
+    border: none!important;
+    border-radius: .5rem!important;
+    width: 6rem!important;
+    line-height: 2rem!important;
+    cursor: pointer!important;
+    margin: .5rem!important;
+}
+
+.new_tweet_send_img{
+    width: 2rem;
+    margin: .5rem;
+    border-radius: 50%;
+    border: .5px solid #c979b7;
+}
+
