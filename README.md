@@ -1,2 +1,2 @@
 # HiMessenger
-HiMessenger is a messenger like twitter and developed by React Js 
+In this messenger, users first register in the program. Then they can send tweets, like, comment, and send photos. In this app, you can also see the list of trending hashtags and the best users, and you can only see the list of tweets with a specific hashtag or tweets specific to a user. You can also choose a photo for your profile picture in this app. The menu of this app is bilingual. This app was developed by React, Material UI, HTML, CSS
