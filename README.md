@@ -1,4 +1,4 @@
-#HiMessenger
+# HiMessenger
 
 This is a social media web application built with React, Material UI, HTML and CSS that allows users to register, post tweets, like/comment, and share photos.
 Features
